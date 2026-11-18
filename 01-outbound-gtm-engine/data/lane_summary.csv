@@ -1,0 +1,5 @@
+lane,contacts,sent,replies,meetings,reply_rate
+CHECK: review by hand,180,180,9,2,0.05
+HOLD: not marketed,1834,0,0,0,
+HOT: rep in 48h,100,100,19,8,0.19
+WARM: marketing nurture,1035,1035,44,15,0.043

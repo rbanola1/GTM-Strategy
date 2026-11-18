@@ -1,0 +1,9 @@
+signal,reply_with,reply_without,lift
+new_paper_on_topic,0.062,0.054,1.156
+new_grant,0.086,0.053,1.617
+competitor_citation,0.062,0.054,1.15
+pricing_page_visit,0.083,0.053,1.587
+protocol_download,0.065,0.054,1.204
+form_fill,0.105,0.052,2.006
+email_reply,0.127,0.052,2.467
+hiring_signal,0.065,0.054,1.199
