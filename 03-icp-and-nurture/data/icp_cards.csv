@@ -1,0 +1,4 @@
+segment,deals,win_rate,best_role,best_product,avg_won_amount,buyer_type
+Academic / research hospital / gov lab,169,0.37,Scientist / lab manager,Progenitor cells,2320.0,Lab buyer
+Organ-on-chip developer,50,0.32,PI / professor,Progenitor cells,9210.0,Programme buyer
+CRO / CDMO,39,0.28,Founder / C-level,Endothelial cells,3090.0,Service buyer

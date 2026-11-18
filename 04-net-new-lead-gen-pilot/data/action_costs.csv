@@ -1,0 +1,6 @@
+action,credits_each,note
+Company and people search,0.0,Free preview; capped at 50 rows per table in a trial
+Suppression check against CRM,0.0,"Local match, no credits"
+AI fit score (per row),1.15,Run on tiers B and C only
+Email lookup (per lookup),1.4,Waterfall of providers; cost rises with each fallback
+Verification,0.0,Separate verifier for emails not found by the waterfall

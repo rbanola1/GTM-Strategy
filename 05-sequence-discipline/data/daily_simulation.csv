@@ -1,0 +1,361 @@
+style,day,sends,bounces,real_replies,auto_replies,cum_sends,cum_real_replies,paused
+Bulk: mass enrollment,0,400,9,0,10,400,0,False
+Bulk: mass enrollment,1,400,15,0,7,800,0,False
+Bulk: mass enrollment,2,400,14,0,9,1200,0,False
+Bulk: mass enrollment,3,400,10,0,8,1600,0,False
+Bulk: mass enrollment,4,400,13,1,9,2000,1,False
+Bulk: mass enrollment,5,0,0,0,0,2000,1,False
+Bulk: mass enrollment,6,0,0,0,0,2000,1,False
+Bulk: mass enrollment,7,400,21,0,8,2400,1,False
+Bulk: mass enrollment,8,400,16,0,1,2800,1,False
+Bulk: mass enrollment,9,400,21,0,6,3200,1,False
+Bulk: mass enrollment,10,400,19,1,7,3600,2,False
+Bulk: mass enrollment,11,400,17,0,9,4000,2,False
+Bulk: mass enrollment,12,0,0,0,0,4000,2,False
+Bulk: mass enrollment,13,0,0,0,0,4000,2,False
+Bulk: mass enrollment,14,400,13,0,9,4400,2,False
+Bulk: mass enrollment,15,400,20,0,8,4800,2,False
+Bulk: mass enrollment,16,400,12,1,9,5200,3,False
+Bulk: mass enrollment,17,400,11,1,9,5600,4,False
+Bulk: mass enrollment,18,400,16,1,7,6000,5,False
+Bulk: mass enrollment,19,0,0,0,0,6000,5,False
+Bulk: mass enrollment,20,0,0,0,0,6000,5,False
+Bulk: mass enrollment,21,400,16,1,4,6400,6,False
+Bulk: mass enrollment,22,400,18,0,7,6800,6,False
+Bulk: mass enrollment,23,400,10,1,6,7200,7,False
+Bulk: mass enrollment,24,400,18,0,8,7600,7,False
+Bulk: mass enrollment,25,400,13,1,5,8000,8,False
+Bulk: mass enrollment,26,0,0,0,0,8000,8,False
+Bulk: mass enrollment,27,0,0,0,0,8000,8,False
+Bulk: mass enrollment,28,400,11,1,10,8400,9,False
+Bulk: mass enrollment,29,400,14,2,5,8800,11,False
+Bulk: mass enrollment,30,400,18,0,13,9200,11,False
+Bulk: mass enrollment,31,400,15,1,13,9600,12,False
+Bulk: mass enrollment,32,400,17,1,4,10000,13,False
+Bulk: mass enrollment,33,0,0,0,0,10000,13,False
+Bulk: mass enrollment,34,0,0,0,0,10000,13,False
+Bulk: mass enrollment,35,400,13,0,5,10400,13,False
+Bulk: mass enrollment,36,400,11,1,5,10800,14,False
+Bulk: mass enrollment,37,400,12,0,11,11200,14,False
+Bulk: mass enrollment,38,400,21,1,5,11600,15,False
+Bulk: mass enrollment,39,400,14,1,4,12000,16,False
+Bulk: mass enrollment,40,0,0,0,0,12000,16,False
+Bulk: mass enrollment,41,0,0,0,0,12000,16,False
+Bulk: mass enrollment,42,400,16,0,8,12400,16,False
+Bulk: mass enrollment,43,400,15,1,8,12800,17,False
+Bulk: mass enrollment,44,400,14,0,8,13200,17,False
+Bulk: mass enrollment,45,400,10,0,8,13600,17,False
+Bulk: mass enrollment,46,400,17,0,3,14000,17,False
+Bulk: mass enrollment,47,0,0,0,0,14000,17,False
+Bulk: mass enrollment,48,0,0,0,0,14000,17,False
+Bulk: mass enrollment,49,400,14,0,9,14400,17,False
+Bulk: mass enrollment,50,400,13,0,12,14800,17,False
+Bulk: mass enrollment,51,400,13,0,7,15200,17,False
+Bulk: mass enrollment,52,400,14,0,8,15600,17,False
+Bulk: mass enrollment,53,400,19,0,9,16000,17,False
+Bulk: mass enrollment,54,0,0,0,0,16000,17,False
+Bulk: mass enrollment,55,0,0,0,0,16000,17,False
+Bulk: mass enrollment,56,400,20,1,9,16400,18,False
+Bulk: mass enrollment,57,400,17,1,6,16800,19,False
+Bulk: mass enrollment,58,400,14,0,6,17200,19,False
+Bulk: mass enrollment,59,400,15,0,8,17600,19,False
+Bulk: mass enrollment,60,400,15,0,7,18000,19,False
+Bulk: mass enrollment,61,0,0,0,0,18000,19,False
+Bulk: mass enrollment,62,0,0,0,0,18000,19,False
+Bulk: mass enrollment,63,0,0,0,0,18000,19,False
+Bulk: mass enrollment,64,0,0,0,0,18000,19,False
+Bulk: mass enrollment,65,0,0,0,0,18000,19,False
+Bulk: mass enrollment,66,0,0,0,0,18000,19,False
+Bulk: mass enrollment,67,0,0,0,0,18000,19,False
+Bulk: mass enrollment,68,0,0,0,0,18000,19,False
+Bulk: mass enrollment,69,0,0,0,0,18000,19,False
+Bulk: mass enrollment,70,0,0,0,0,18000,19,False
+Bulk: mass enrollment,71,0,0,0,0,18000,19,False
+Bulk: mass enrollment,72,0,0,0,0,18000,19,False
+Bulk: mass enrollment,73,0,0,0,0,18000,19,False
+Bulk: mass enrollment,74,0,0,0,0,18000,19,False
+Bulk: mass enrollment,75,0,0,0,0,18000,19,False
+Bulk: mass enrollment,76,0,0,0,0,18000,19,False
+Bulk: mass enrollment,77,0,0,0,0,18000,19,False
+Bulk: mass enrollment,78,0,0,0,0,18000,19,False
+Bulk: mass enrollment,79,0,0,0,0,18000,19,False
+Bulk: mass enrollment,80,0,0,0,0,18000,19,False
+Bulk: mass enrollment,81,0,0,0,0,18000,19,False
+Bulk: mass enrollment,82,0,0,0,0,18000,19,False
+Bulk: mass enrollment,83,0,0,0,0,18000,19,False
+Bulk: mass enrollment,84,0,0,0,0,18000,19,False
+Bulk: mass enrollment,85,0,0,0,0,18000,19,False
+Bulk: mass enrollment,86,0,0,0,0,18000,19,False
+Bulk: mass enrollment,87,0,0,0,0,18000,19,False
+Bulk: mass enrollment,88,0,0,0,0,18000,19,False
+Bulk: mass enrollment,89,0,0,0,0,18000,19,False
+Bulk: mass enrollment,90,0,0,0,0,18000,19,False
+Bulk: mass enrollment,91,0,0,0,0,18000,19,False
+Bulk: mass enrollment,92,0,0,0,0,18000,19,False
+Bulk: mass enrollment,93,0,0,0,0,18000,19,False
+Bulk: mass enrollment,94,0,0,0,0,18000,19,False
+Bulk: mass enrollment,95,0,0,0,0,18000,19,False
+Bulk: mass enrollment,96,0,0,0,0,18000,19,False
+Bulk: mass enrollment,97,0,0,0,0,18000,19,False
+Bulk: mass enrollment,98,0,0,0,0,18000,19,False
+Bulk: mass enrollment,99,0,0,0,0,18000,19,False
+Bulk: mass enrollment,100,0,0,0,0,18000,19,False
+Bulk: mass enrollment,101,0,0,0,0,18000,19,False
+Bulk: mass enrollment,102,0,0,0,0,18000,19,False
+Bulk: mass enrollment,103,0,0,0,0,18000,19,False
+Bulk: mass enrollment,104,0,0,0,0,18000,19,False
+Bulk: mass enrollment,105,0,0,0,0,18000,19,False
+Bulk: mass enrollment,106,0,0,0,0,18000,19,False
+Bulk: mass enrollment,107,0,0,0,0,18000,19,False
+Bulk: mass enrollment,108,0,0,0,0,18000,19,False
+Bulk: mass enrollment,109,0,0,0,0,18000,19,False
+Bulk: mass enrollment,110,0,0,0,0,18000,19,False
+Bulk: mass enrollment,111,0,0,0,0,18000,19,False
+Bulk: mass enrollment,112,0,0,0,0,18000,19,False
+Bulk: mass enrollment,113,0,0,0,0,18000,19,False
+Bulk: mass enrollment,114,0,0,0,0,18000,19,False
+Bulk: mass enrollment,115,0,0,0,0,18000,19,False
+Bulk: mass enrollment,116,0,0,0,0,18000,19,False
+Bulk: mass enrollment,117,0,0,0,0,18000,19,False
+Bulk: mass enrollment,118,0,0,0,0,18000,19,False
+Bulk: mass enrollment,119,0,0,0,0,18000,19,False
+Bulk with stop rule,0,400,13,1,4,400,1,False
+Bulk with stop rule,1,400,10,0,7,800,1,True
+Bulk with stop rule,2,0,0,0,0,800,1,True
+Bulk with stop rule,3,0,0,0,0,800,1,True
+Bulk with stop rule,4,0,0,0,0,800,1,True
+Bulk with stop rule,5,0,0,0,0,800,1,True
+Bulk with stop rule,6,0,0,0,0,800,1,True
+Bulk with stop rule,7,0,0,0,0,800,1,True
+Bulk with stop rule,8,0,0,0,0,800,1,True
+Bulk with stop rule,9,0,0,0,0,800,1,True
+Bulk with stop rule,10,0,0,0,0,800,1,True
+Bulk with stop rule,11,0,0,0,0,800,1,True
+Bulk with stop rule,12,0,0,0,0,800,1,True
+Bulk with stop rule,13,0,0,0,0,800,1,True
+Bulk with stop rule,14,0,0,0,0,800,1,True
+Bulk with stop rule,15,0,0,0,0,800,1,True
+Bulk with stop rule,16,0,0,0,0,800,1,True
+Bulk with stop rule,17,0,0,0,0,800,1,True
+Bulk with stop rule,18,0,0,0,0,800,1,True
+Bulk with stop rule,19,0,0,0,0,800,1,True
+Bulk with stop rule,20,0,0,0,0,800,1,True
+Bulk with stop rule,21,0,0,0,0,800,1,True
+Bulk with stop rule,22,0,0,0,0,800,1,True
+Bulk with stop rule,23,0,0,0,0,800,1,True
+Bulk with stop rule,24,0,0,0,0,800,1,True
+Bulk with stop rule,25,0,0,0,0,800,1,True
+Bulk with stop rule,26,0,0,0,0,800,1,True
+Bulk with stop rule,27,0,0,0,0,800,1,True
+Bulk with stop rule,28,0,0,0,0,800,1,True
+Bulk with stop rule,29,0,0,0,0,800,1,True
+Bulk with stop rule,30,0,0,0,0,800,1,True
+Bulk with stop rule,31,0,0,0,0,800,1,True
+Bulk with stop rule,32,0,0,0,0,800,1,True
+Bulk with stop rule,33,0,0,0,0,800,1,True
+Bulk with stop rule,34,0,0,0,0,800,1,True
+Bulk with stop rule,35,0,0,0,0,800,1,True
+Bulk with stop rule,36,0,0,0,0,800,1,True
+Bulk with stop rule,37,0,0,0,0,800,1,True
+Bulk with stop rule,38,0,0,0,0,800,1,True
+Bulk with stop rule,39,0,0,0,0,800,1,True
+Bulk with stop rule,40,0,0,0,0,800,1,True
+Bulk with stop rule,41,0,0,0,0,800,1,True
+Bulk with stop rule,42,0,0,0,0,800,1,True
+Bulk with stop rule,43,0,0,0,0,800,1,True
+Bulk with stop rule,44,0,0,0,0,800,1,True
+Bulk with stop rule,45,0,0,0,0,800,1,True
+Bulk with stop rule,46,0,0,0,0,800,1,True
+Bulk with stop rule,47,0,0,0,0,800,1,True
+Bulk with stop rule,48,0,0,0,0,800,1,True
+Bulk with stop rule,49,0,0,0,0,800,1,True
+Bulk with stop rule,50,0,0,0,0,800,1,True
+Bulk with stop rule,51,0,0,0,0,800,1,True
+Bulk with stop rule,52,0,0,0,0,800,1,True
+Bulk with stop rule,53,0,0,0,0,800,1,True
+Bulk with stop rule,54,0,0,0,0,800,1,True
+Bulk with stop rule,55,0,0,0,0,800,1,True
+Bulk with stop rule,56,0,0,0,0,800,1,True
+Bulk with stop rule,57,0,0,0,0,800,1,True
+Bulk with stop rule,58,0,0,0,0,800,1,True
+Bulk with stop rule,59,0,0,0,0,800,1,True
+Bulk with stop rule,60,0,0,0,0,800,1,True
+Bulk with stop rule,61,0,0,0,0,800,1,True
+Bulk with stop rule,62,0,0,0,0,800,1,True
+Bulk with stop rule,63,0,0,0,0,800,1,True
+Bulk with stop rule,64,0,0,0,0,800,1,True
+Bulk with stop rule,65,0,0,0,0,800,1,True
+Bulk with stop rule,66,0,0,0,0,800,1,True
+Bulk with stop rule,67,0,0,0,0,800,1,True
+Bulk with stop rule,68,0,0,0,0,800,1,True
+Bulk with stop rule,69,0,0,0,0,800,1,True
+Bulk with stop rule,70,0,0,0,0,800,1,True
+Bulk with stop rule,71,0,0,0,0,800,1,True
+Bulk with stop rule,72,0,0,0,0,800,1,True
+Bulk with stop rule,73,0,0,0,0,800,1,True
+Bulk with stop rule,74,0,0,0,0,800,1,True
+Bulk with stop rule,75,0,0,0,0,800,1,True
+Bulk with stop rule,76,0,0,0,0,800,1,True
+Bulk with stop rule,77,0,0,0,0,800,1,True
+Bulk with stop rule,78,0,0,0,0,800,1,True
+Bulk with stop rule,79,0,0,0,0,800,1,True
+Bulk with stop rule,80,0,0,0,0,800,1,True
+Bulk with stop rule,81,0,0,0,0,800,1,True
+Bulk with stop rule,82,0,0,0,0,800,1,True
+Bulk with stop rule,83,0,0,0,0,800,1,True
+Bulk with stop rule,84,0,0,0,0,800,1,True
+Bulk with stop rule,85,0,0,0,0,800,1,True
+Bulk with stop rule,86,0,0,0,0,800,1,True
+Bulk with stop rule,87,0,0,0,0,800,1,True
+Bulk with stop rule,88,0,0,0,0,800,1,True
+Bulk with stop rule,89,0,0,0,0,800,1,True
+Bulk with stop rule,90,0,0,0,0,800,1,True
+Bulk with stop rule,91,0,0,0,0,800,1,True
+Bulk with stop rule,92,0,0,0,0,800,1,True
+Bulk with stop rule,93,0,0,0,0,800,1,True
+Bulk with stop rule,94,0,0,0,0,800,1,True
+Bulk with stop rule,95,0,0,0,0,800,1,True
+Bulk with stop rule,96,0,0,0,0,800,1,True
+Bulk with stop rule,97,0,0,0,0,800,1,True
+Bulk with stop rule,98,0,0,0,0,800,1,True
+Bulk with stop rule,99,0,0,0,0,800,1,True
+Bulk with stop rule,100,0,0,0,0,800,1,True
+Bulk with stop rule,101,0,0,0,0,800,1,True
+Bulk with stop rule,102,0,0,0,0,800,1,True
+Bulk with stop rule,103,0,0,0,0,800,1,True
+Bulk with stop rule,104,0,0,0,0,800,1,True
+Bulk with stop rule,105,0,0,0,0,800,1,True
+Bulk with stop rule,106,0,0,0,0,800,1,True
+Bulk with stop rule,107,0,0,0,0,800,1,True
+Bulk with stop rule,108,0,0,0,0,800,1,True
+Bulk with stop rule,109,0,0,0,0,800,1,True
+Bulk with stop rule,110,0,0,0,0,800,1,True
+Bulk with stop rule,111,0,0,0,0,800,1,True
+Bulk with stop rule,112,0,0,0,0,800,1,True
+Bulk with stop rule,113,0,0,0,0,800,1,True
+Bulk with stop rule,114,0,0,0,0,800,1,True
+Bulk with stop rule,115,0,0,0,0,800,1,True
+Bulk with stop rule,116,0,0,0,0,800,1,True
+Bulk with stop rule,117,0,0,0,0,800,1,True
+Bulk with stop rule,118,0,0,0,0,800,1,True
+Bulk with stop rule,119,0,0,0,0,800,1,True
+"Paced: targeted, signal-based",0,0,0,0,0,0,0,False
+"Paced: targeted, signal-based",1,50,1,1,0,50,1,False
+"Paced: targeted, signal-based",2,50,2,1,0,100,2,False
+"Paced: targeted, signal-based",3,50,0,1,0,150,3,False
+"Paced: targeted, signal-based",4,0,0,0,0,150,3,False
+"Paced: targeted, signal-based",5,0,0,0,0,150,3,False
+"Paced: targeted, signal-based",6,0,0,0,0,150,3,False
+"Paced: targeted, signal-based",7,0,0,0,0,150,3,False
+"Paced: targeted, signal-based",8,50,0,3,0,200,6,False
+"Paced: targeted, signal-based",9,50,0,2,2,250,8,False
+"Paced: targeted, signal-based",10,50,5,0,1,300,8,False
+"Paced: targeted, signal-based",11,0,0,0,0,300,8,False
+"Paced: targeted, signal-based",12,0,0,0,0,300,8,False
+"Paced: targeted, signal-based",13,0,0,0,0,300,8,False
+"Paced: targeted, signal-based",14,0,0,0,0,300,8,False
+"Paced: targeted, signal-based",15,50,2,0,1,350,8,False
+"Paced: targeted, signal-based",16,50,0,2,3,400,10,False
+"Paced: targeted, signal-based",17,50,0,0,0,450,10,False
+"Paced: targeted, signal-based",18,0,0,0,0,450,10,False
+"Paced: targeted, signal-based",19,0,0,0,0,450,10,False
+"Paced: targeted, signal-based",20,0,0,0,0,450,10,False
+"Paced: targeted, signal-based",21,0,0,0,0,450,10,False
+"Paced: targeted, signal-based",22,50,0,3,0,500,13,False
+"Paced: targeted, signal-based",23,50,1,1,0,550,14,False
+"Paced: targeted, signal-based",24,50,1,1,1,600,15,False
+"Paced: targeted, signal-based",25,0,0,0,0,600,15,False
+"Paced: targeted, signal-based",26,0,0,0,0,600,15,False
+"Paced: targeted, signal-based",27,0,0,0,0,600,15,False
+"Paced: targeted, signal-based",28,0,0,0,0,600,15,False
+"Paced: targeted, signal-based",29,50,1,1,2,650,16,False
+"Paced: targeted, signal-based",30,50,0,0,1,700,16,False
+"Paced: targeted, signal-based",31,50,1,1,3,750,17,False
+"Paced: targeted, signal-based",32,0,0,0,0,750,17,False
+"Paced: targeted, signal-based",33,0,0,0,0,750,17,False
+"Paced: targeted, signal-based",34,0,0,0,0,750,17,False
+"Paced: targeted, signal-based",35,0,0,0,0,750,17,False
+"Paced: targeted, signal-based",36,50,0,1,2,800,18,False
+"Paced: targeted, signal-based",37,50,1,1,1,850,19,False
+"Paced: targeted, signal-based",38,50,1,2,1,900,21,False
+"Paced: targeted, signal-based",39,0,0,0,0,900,21,False
+"Paced: targeted, signal-based",40,0,0,0,0,900,21,False
+"Paced: targeted, signal-based",41,0,0,0,0,900,21,False
+"Paced: targeted, signal-based",42,0,0,0,0,900,21,False
+"Paced: targeted, signal-based",43,50,1,2,0,950,23,False
+"Paced: targeted, signal-based",44,50,1,2,2,1000,25,False
+"Paced: targeted, signal-based",45,50,0,0,1,1050,25,False
+"Paced: targeted, signal-based",46,0,0,0,0,1050,25,False
+"Paced: targeted, signal-based",47,0,0,0,0,1050,25,False
+"Paced: targeted, signal-based",48,0,0,0,0,1050,25,False
+"Paced: targeted, signal-based",49,0,0,0,0,1050,25,False
+"Paced: targeted, signal-based",50,50,1,2,1,1100,27,False
+"Paced: targeted, signal-based",51,50,0,1,1,1150,28,False
+"Paced: targeted, signal-based",52,50,0,3,2,1200,31,False
+"Paced: targeted, signal-based",53,0,0,0,0,1200,31,False
+"Paced: targeted, signal-based",54,0,0,0,0,1200,31,False
+"Paced: targeted, signal-based",55,0,0,0,0,1200,31,False
+"Paced: targeted, signal-based",56,0,0,0,0,1200,31,False
+"Paced: targeted, signal-based",57,50,2,0,0,1250,31,False
+"Paced: targeted, signal-based",58,50,2,1,0,1300,32,False
+"Paced: targeted, signal-based",59,50,0,2,0,1350,34,False
+"Paced: targeted, signal-based",60,0,0,0,0,1350,34,False
+"Paced: targeted, signal-based",61,0,0,0,0,1350,34,False
+"Paced: targeted, signal-based",62,0,0,0,0,1350,34,False
+"Paced: targeted, signal-based",63,0,0,0,0,1350,34,False
+"Paced: targeted, signal-based",64,50,0,2,1,1400,36,False
+"Paced: targeted, signal-based",65,50,0,3,1,1450,39,False
+"Paced: targeted, signal-based",66,50,0,2,0,1500,41,False
+"Paced: targeted, signal-based",67,0,0,0,0,1500,41,False
+"Paced: targeted, signal-based",68,0,0,0,0,1500,41,False
+"Paced: targeted, signal-based",69,0,0,0,0,1500,41,False
+"Paced: targeted, signal-based",70,0,0,0,0,1500,41,False
+"Paced: targeted, signal-based",71,50,2,0,1,1550,41,False
+"Paced: targeted, signal-based",72,50,0,2,2,1600,43,False
+"Paced: targeted, signal-based",73,50,2,0,1,1650,43,False
+"Paced: targeted, signal-based",74,0,0,0,0,1650,43,False
+"Paced: targeted, signal-based",75,0,0,0,0,1650,43,False
+"Paced: targeted, signal-based",76,0,0,0,0,1650,43,False
+"Paced: targeted, signal-based",77,0,0,0,0,1650,43,False
+"Paced: targeted, signal-based",78,50,2,0,1,1700,43,False
+"Paced: targeted, signal-based",79,50,1,2,1,1750,45,False
+"Paced: targeted, signal-based",80,50,1,2,0,1800,47,False
+"Paced: targeted, signal-based",81,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",82,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",83,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",84,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",85,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",86,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",87,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",88,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",89,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",90,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",91,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",92,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",93,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",94,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",95,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",96,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",97,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",98,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",99,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",100,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",101,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",102,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",103,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",104,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",105,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",106,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",107,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",108,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",109,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",110,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",111,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",112,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",113,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",114,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",115,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",116,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",117,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",118,0,0,0,0,1800,47,False
+"Paced: targeted, signal-based",119,0,0,0,0,1800,47,False

@@ -1,0 +1,3 @@
+strategy,rows_processed,credits_spent,usable_leads,tier_A_leads,credits_per_usable_lead
+"A. Enrich everything, filter later",784,1999,128,41,15.6
+"B. Suppress first, tier first",1315,1999,473,220,4.2

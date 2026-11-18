@@ -1,6 +1,6 @@
 # 01 | Signal-Based Outbound GTM Engine
 
-**Status: In progress (design complete, build rolling out in stages)** · Fictional company: Aurelis Life Sciences · **All data is synthetic**
+Fictional company: Aurelis Life Sciences · **All data is synthetic**
 
 ![Engine overview](charts/engine_overview.png)
 
@@ -72,14 +72,16 @@ pip install pandas numpy matplotlib
 python scripts/score_and_route.py   # writes data/*.csv and charts/engine_overview.png
 ```
 
-## What is built vs planned
-| Piece | State |
+## What it includes
+| Piece | Where |
 |---|---|
-| Blueprint, tool map, routing logic, guardrails | Done |
-| Fit and intent scoring prototype (this repo) | Done, synthetic |
-| CRM fit score, routing workflows, nurture tracks | Rolling out, built switched off and tested on a few contacts first |
-| AI-drafted openers reviewed by reps | Planned |
-| Monthly re-weighting from outcomes | Planned |
+| Blueprint, tool map, routing logic, guardrails | This README and [docs](docs) |
+| Fit and intent scoring prototype with synthetic data | [scripts/score_and_route.py](scripts/score_and_route.py) |
+| Lead scoring and lifecycle definitions | [02 Lead scoring redesign](../02-lead-scoring-redesign) |
+| ICP, tiers and nurture | [03 ICP and nurture](../03-icp-and-nurture) |
+| Net-new lead generation pilot | [04 Pilot](../04-net-new-lead-gen-pilot) |
+| Sequence discipline and send pacing | [05 Sequence discipline](../05-sequence-discipline) |
+| Tool stack | [06 Tool stack](../06-tool-stack) |
 
 ## Skills shown
 GTM strategy · ICP and segmentation · signal and intent design · lead scoring · routing and SLAs · outbound sequencing discipline · funnel measurement · RevOps process design

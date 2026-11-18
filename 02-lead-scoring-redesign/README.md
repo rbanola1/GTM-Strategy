@@ -1,6 +1,6 @@
 # 02 | Lead Scoring Redesign: From Engagement-Only to Buy-Readiness
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · **Status: In progress** (design and back-test done; CRM build running next to the old score)
+**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
 
 ![Scoring back-test](charts/scoring_backtest.png)
 

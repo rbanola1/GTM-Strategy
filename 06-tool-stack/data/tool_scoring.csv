@@ -1,0 +1,12 @@
+tool,monthly_cost,weighted_score,stage,Solves a measured bottleneck,Data quality,CRM integration,Cost,Effort to run,"Risk (lock-in, compliance)"
+"CRM scoring, workflows, sequences (existing)",0,94.0,Stage 1: Prove,5,4,5,5,4,5
+Email verification (pay as you go),35,91.0,Stage 2: Scale data,4,5,4,5,5,5
+"AI assistant for research, dedupe, drafting (existing)",0,89.0,Stage 1: Prove,5,4,4,5,4,4
+Enrichment waterfall platform,190,79.0,Stage 2: Scale data,4,5,4,3,3,4
+Website and company intent data,40,77.0,Stage 1: Prove,4,3,5,4,3,4
+Academic contact and grant database (existing),0,76.0,Stage 1: Prove,4,3,3,5,4,4
+Workflow automation or scheduled agents,20,76.0,Stage 3: Target system,4,4,4,4,3,3
+Social selling tool for two reps,250,61.0,Stage 3: Target system,3,3,3,2,4,4
+Pharma intelligence feed,500,49.0,Not recommended,2,4,2,1,3,3
+Dedicated cold-email stack with new domains,70,47.0,Not recommended,2,3,2,3,2,2
+AI sales development agent,300,42.0,Not recommended,2,2,3,1,3,2

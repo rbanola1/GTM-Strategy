@@ -1,0 +1,361 @@
+segment,role,product,size,won,amount
+CRO / CDMO,PI / professor,Progenitor cells,1-10,False,0.0
+Therapeutic biotech / pharma,Director / VP science,Endothelial cells,5K+,False,0.0
+Organ-on-chip developer,PI / professor,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Media kits,5K+,False,0.0
+Therapeutic biotech / pharma,BD / commercial,Small molecules,11-250,False,0.0
+Tools and other,PI / professor,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Media kits,11-250,True,2940.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+Tools and other,Founder / C-level,Progenitor cells,1-10,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Endothelial cells,5K+,True,11140.0
+Academic / research hospital / gov lab,Postdoc,Endothelial cells,5K+,False,0.0
+Organ-on-chip developer,Founder / C-level,Endothelial cells,5K+,False,0.0
+Tools and other,PI / professor,Endothelial cells,11-250,True,6260.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,251-5K,True,2460.0
+CRO / CDMO,BD / commercial,Progenitor cells,1-10,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,5K+,True,1900.0
+Academic / research hospital / gov lab,BD / commercial,Media kits,11-250,False,0.0
+Tools and other,Founder / C-level,Small molecules,251-5K,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Small molecules,11-250,False,0.0
+Therapeutic biotech / pharma,Postdoc,Endothelial cells,5K+,False,0.0
+Therapeutic biotech / pharma,Director / VP science,Media kits,11-250,True,4030.0
+Therapeutic biotech / pharma,PI / professor,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Small molecules,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,5K+,False,0.0
+Therapeutic biotech / pharma,Postdoc,Progenitor cells,5K+,False,0.0
+Organ-on-chip developer,Postdoc,Endothelial cells,1-10,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,1-10,False,0.0
+Academic / research hospital / gov lab,Procurement,Small molecules,251-5K,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Progenitor cells,1-10,False,0.0
+CRO / CDMO,Postdoc,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,5K+,False,0.0
+Organ-on-chip developer,Founder / C-level,Endothelial cells,11-250,False,0.0
+Therapeutic biotech / pharma,Director / VP science,Endothelial cells,5K+,False,0.0
+Therapeutic biotech / pharma,BD / commercial,Small molecules,5K+,True,770.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,251-5K,True,420.0
+Academic / research hospital / gov lab,Director / VP science,Small molecules,5K+,False,0.0
+Therapeutic biotech / pharma,PI / professor,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Endothelial cells,1-10,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Progenitor cells,1-10,True,4470.0
+Tools and other,Procurement,Endothelial cells,251-5K,False,0.0
+Organ-on-chip developer,PI / professor,Small molecules,1-10,True,1860.0
+Therapeutic biotech / pharma,BD / commercial,Endothelial cells,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,5K+,True,6050.0
+CRO / CDMO,PI / professor,Endothelial cells,251-5K,True,3450.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,True,4130.0
+Therapeutic biotech / pharma,Postdoc,Small molecules,11-250,True,1120.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Progenitor cells,251-5K,False,0.0
+Tools and other,Founder / C-level,Progenitor cells,11-250,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Progenitor cells,5K+,False,0.0
+Academic / research hospital / gov lab,Procurement,Media kits,11-250,True,1330.0
+Therapeutic biotech / pharma,Scientist / lab manager,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,PI / professor,Progenitor cells,1-10,False,0.0
+Tools and other,Postdoc,Small molecules,5K+,True,330.0
+Academic / research hospital / gov lab,Founder / C-level,Progenitor cells,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,11-250,True,240.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,5K+,True,340.0
+Academic / research hospital / gov lab,Postdoc,Endothelial cells,1-10,False,0.0
+CRO / CDMO,Founder / C-level,Endothelial cells,5K+,True,2470.0
+Therapeutic biotech / pharma,Postdoc,Small molecules,5K+,False,0.0
+Organ-on-chip developer,Director / VP science,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,True,3430.0
+Academic / research hospital / gov lab,Director / VP science,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Endothelial cells,5K+,False,0.0
+Therapeutic biotech / pharma,PI / professor,Small molecules,1-10,False,0.0
+Organ-on-chip developer,Procurement,Small molecules,251-5K,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,5K+,True,3680.0
+Organ-on-chip developer,Director / VP science,Endothelial cells,5K+,True,16270.0
+CRO / CDMO,Scientist / lab manager,Endothelial cells,5K+,True,7800.0
+CRO / CDMO,Scientist / lab manager,Endothelial cells,1-10,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,11-250,False,0.0
+CRO / CDMO,PI / professor,Progenitor cells,251-5K,True,3820.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,5K+,True,2930.0
+Academic / research hospital / gov lab,Founder / C-level,Endothelial cells,11-250,True,2150.0
+Organ-on-chip developer,PI / professor,Progenitor cells,251-5K,True,10020.0
+Academic / research hospital / gov lab,Director / VP science,Small molecules,1-10,False,0.0
+CRO / CDMO,BD / commercial,Progenitor cells,5K+,False,0.0
+Organ-on-chip developer,Founder / C-level,Media kits,11-250,False,0.0
+Therapeutic biotech / pharma,PI / professor,Endothelial cells,251-5K,True,8160.0
+Therapeutic biotech / pharma,Scientist / lab manager,Progenitor cells,5K+,False,0.0
+Tools and other,Postdoc,Media kits,5K+,False,0.0
+CRO / CDMO,Scientist / lab manager,Small molecules,5K+,True,370.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,5K+,True,1060.0
+Tools and other,Procurement,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,1-10,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Endothelial cells,5K+,False,0.0
+CRO / CDMO,Founder / C-level,Media kits,251-5K,True,1000.0
+Tools and other,Scientist / lab manager,Progenitor cells,5K+,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Progenitor cells,5K+,True,12280.0
+Organ-on-chip developer,Postdoc,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Small molecules,5K+,True,420.0
+Academic / research hospital / gov lab,PI / professor,Progenitor cells,11-250,True,5120.0
+CRO / CDMO,BD / commercial,Media kits,1-10,False,0.0
+Tools and other,PI / professor,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Media kits,5K+,True,1550.0
+Organ-on-chip developer,PI / professor,Endothelial cells,5K+,True,8330.0
+Academic / research hospital / gov lab,Procurement,Progenitor cells,5K+,False,0.0
+Organ-on-chip developer,Procurement,Small molecules,251-5K,True,700.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,True,3150.0
+Academic / research hospital / gov lab,Founder / C-level,Media kits,11-250,False,0.0
+Academic / research hospital / gov lab,PI / professor,Progenitor cells,11-250,True,2010.0
+Therapeutic biotech / pharma,Postdoc,Small molecules,1-10,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,251-5K,True,8640.0
+Organ-on-chip developer,Postdoc,Small molecules,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,True,2590.0
+Therapeutic biotech / pharma,Director / VP science,Media kits,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Small molecules,251-5K,False,0.0
+Organ-on-chip developer,Postdoc,Small molecules,251-5K,True,540.0
+Academic / research hospital / gov lab,Postdoc,Small molecules,11-250,True,410.0
+Therapeutic biotech / pharma,Scientist / lab manager,Media kits,1-10,False,0.0
+Therapeutic biotech / pharma,Postdoc,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Small molecules,11-250,True,340.0
+Organ-on-chip developer,Director / VP science,Small molecules,11-250,False,0.0
+Therapeutic biotech / pharma,PI / professor,Endothelial cells,5K+,False,0.0
+Tools and other,Director / VP science,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,251-5K,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Progenitor cells,251-5K,False,0.0
+CRO / CDMO,Founder / C-level,Endothelial cells,11-250,False,0.0
+Tools and other,Director / VP science,Progenitor cells,1-10,False,0.0
+Organ-on-chip developer,Founder / C-level,Progenitor cells,5K+,True,10450.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,5K+,False,0.0
+Organ-on-chip developer,Procurement,Small molecules,1-10,False,0.0
+Therapeutic biotech / pharma,BD / commercial,Endothelial cells,251-5K,False,0.0
+Therapeutic biotech / pharma,Postdoc,Endothelial cells,11-250,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Progenitor cells,1-10,True,10930.0
+Tools and other,BD / commercial,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,5K+,False,0.0
+Organ-on-chip developer,PI / professor,Endothelial cells,11-250,False,0.0
+Tools and other,Scientist / lab manager,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,PI / professor,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,Postdoc,Small molecules,5K+,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Small molecules,5K+,True,1550.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,5K+,False,0.0
+CRO / CDMO,Founder / C-level,Small molecules,5K+,True,180.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,251-5K,False,0.0
+Organ-on-chip developer,Procurement,Small molecules,1-10,True,1780.0
+Organ-on-chip developer,Director / VP science,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,True,1260.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,5K+,True,1580.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,251-5K,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,11-250,True,7310.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,5K+,True,3790.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,5K+,True,420.0
+Tools and other,Scientist / lab manager,Endothelial cells,11-250,True,2190.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,251-5K,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Progenitor cells,5K+,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Media kits,251-5K,False,0.0
+Tools and other,Scientist / lab manager,Progenitor cells,5K+,False,0.0
+CRO / CDMO,Director / VP science,Small molecules,251-5K,True,520.0
+Academic / research hospital / gov lab,Postdoc,Endothelial cells,11-250,False,0.0
+Tools and other,Scientist / lab manager,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Procurement,Endothelial cells,1-10,False,0.0
+Organ-on-chip developer,BD / commercial,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Postdoc,Small molecules,11-250,True,390.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,5K+,True,1780.0
+Academic / research hospital / gov lab,Scientist / lab manager,Media kits,11-250,False,0.0
+Academic / research hospital / gov lab,Procurement,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Endothelial cells,5K+,False,0.0
+CRO / CDMO,Scientist / lab manager,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Media kits,5K+,False,0.0
+Tools and other,Postdoc,Endothelial cells,251-5K,False,0.0
+Therapeutic biotech / pharma,Founder / C-level,Progenitor cells,11-250,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Small molecules,251-5K,True,1350.0
+Academic / research hospital / gov lab,PI / professor,Progenitor cells,251-5K,False,0.0
+CRO / CDMO,Founder / C-level,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Progenitor cells,5K+,False,0.0
+CRO / CDMO,PI / professor,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,PI / professor,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,5K+,True,1870.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,251-5K,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,11-250,True,3090.0
+Organ-on-chip developer,Procurement,Endothelial cells,251-5K,True,17670.0
+Tools and other,Scientist / lab manager,Progenitor cells,5K+,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Small molecules,11-250,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,5K+,True,11280.0
+CRO / CDMO,PI / professor,Small molecules,1-10,False,0.0
+Organ-on-chip developer,Procurement,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,251-5K,False,0.0
+Tools and other,Scientist / lab manager,Media kits,251-5K,False,0.0
+Therapeutic biotech / pharma,Postdoc,Endothelial cells,11-250,False,0.0
+Organ-on-chip developer,Founder / C-level,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,5K+,True,1010.0
+CRO / CDMO,PI / professor,Media kits,251-5K,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,1-10,False,0.0
+CRO / CDMO,Postdoc,Small molecules,251-5K,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Media kits,1-10,False,0.0
+Academic / research hospital / gov lab,PI / professor,Media kits,11-250,True,410.0
+Academic / research hospital / gov lab,Founder / C-level,Progenitor cells,1-10,False,0.0
+Therapeutic biotech / pharma,Director / VP science,Progenitor cells,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,251-5K,False,0.0
+Organ-on-chip developer,PI / professor,Progenitor cells,251-5K,True,20320.0
+Academic / research hospital / gov lab,Postdoc,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,1-10,False,0.0
+Therapeutic biotech / pharma,Postdoc,Progenitor cells,1-10,False,0.0
+Organ-on-chip developer,Director / VP science,Small molecules,11-250,True,1450.0
+Academic / research hospital / gov lab,PI / professor,Media kits,251-5K,True,570.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,5K+,True,8390.0
+Tools and other,Scientist / lab manager,Endothelial cells,251-5K,True,3720.0
+Therapeutic biotech / pharma,Scientist / lab manager,Progenitor cells,5K+,True,6860.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,11-250,False,0.0
+CRO / CDMO,PI / professor,Endothelial cells,251-5K,False,0.0
+Tools and other,Postdoc,Endothelial cells,251-5K,False,0.0
+Organ-on-chip developer,Founder / C-level,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,251-5K,True,3710.0
+Therapeutic biotech / pharma,PI / professor,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Small molecules,251-5K,False,0.0
+Tools and other,Founder / C-level,Endothelial cells,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,False,0.0
+CRO / CDMO,Founder / C-level,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,5K+,True,8270.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+CRO / CDMO,Founder / C-level,Media kits,251-5K,False,0.0
+CRO / CDMO,PI / professor,Media kits,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,1-10,True,390.0
+Academic / research hospital / gov lab,Director / VP science,Endothelial cells,11-250,True,3090.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,1-10,False,0.0
+Organ-on-chip developer,PI / professor,Endothelial cells,11-250,True,11190.0
+Tools and other,BD / commercial,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,251-5K,True,1540.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,251-5K,True,2620.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,5K+,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Media kits,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,251-5K,True,820.0
+Organ-on-chip developer,Postdoc,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Media kits,5K+,True,860.0
+Therapeutic biotech / pharma,Procurement,Progenitor cells,5K+,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Small molecules,251-5K,False,0.0
+Therapeutic biotech / pharma,Founder / C-level,Small molecules,251-5K,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Endothelial cells,5K+,True,5280.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,251-5K,False,0.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,5K+,True,3230.0
+Tools and other,Scientist / lab manager,Progenitor cells,5K+,False,0.0
+Tools and other,Scientist / lab manager,Progenitor cells,1-10,False,0.0
+Therapeutic biotech / pharma,Founder / C-level,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,Procurement,Endothelial cells,5K+,True,3730.0
+Therapeutic biotech / pharma,PI / professor,Progenitor cells,11-250,False,0.0
+Therapeutic biotech / pharma,Director / VP science,Progenitor cells,251-5K,False,0.0
+Tools and other,Procurement,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Small molecules,5K+,True,440.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,False,0.0
+Tools and other,Postdoc,Progenitor cells,251-5K,True,4700.0
+Therapeutic biotech / pharma,Director / VP science,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,251-5K,True,3310.0
+Therapeutic biotech / pharma,PI / professor,Small molecules,1-10,True,5870.0
+CRO / CDMO,Founder / C-level,Small molecules,1-10,False,0.0
+Therapeutic biotech / pharma,Postdoc,Small molecules,11-250,True,4040.0
+Academic / research hospital / gov lab,Director / VP science,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,PI / professor,Small molecules,251-5K,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Small molecules,11-250,False,0.0
+Therapeutic biotech / pharma,Founder / C-level,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,5K+,False,0.0
+Organ-on-chip developer,Founder / C-level,Progenitor cells,251-5K,False,0.0
+Academic / research hospital / gov lab,PI / professor,Media kits,11-250,True,3750.0
+Academic / research hospital / gov lab,PI / professor,Small molecules,1-10,False,0.0
+Therapeutic biotech / pharma,Postdoc,Media kits,11-250,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Progenitor cells,11-250,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Postdoc,Small molecules,251-5K,False,0.0
+Tools and other,Founder / C-level,Endothelial cells,1-10,False,0.0
+Organ-on-chip developer,Founder / C-level,Endothelial cells,11-250,False,0.0
+CRO / CDMO,Scientist / lab manager,Small molecules,11-250,False,0.0
+Therapeutic biotech / pharma,Founder / C-level,Endothelial cells,5K+,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Progenitor cells,1-10,True,3800.0
+Academic / research hospital / gov lab,Founder / C-level,Endothelial cells,251-5K,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Progenitor cells,1-10,True,1700.0
+CRO / CDMO,Scientist / lab manager,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Postdoc,Endothelial cells,11-250,True,2230.0
+CRO / CDMO,Scientist / lab manager,Endothelial cells,1-10,False,0.0
+Tools and other,PI / professor,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,1-10,False,0.0
+CRO / CDMO,Founder / C-level,Progenitor cells,251-5K,True,7520.0
+Organ-on-chip developer,Scientist / lab manager,Progenitor cells,5K+,True,12420.0
+CRO / CDMO,Founder / C-level,Progenitor cells,11-250,False,0.0
+Therapeutic biotech / pharma,Founder / C-level,Endothelial cells,251-5K,False,0.0
+Therapeutic biotech / pharma,BD / commercial,Media kits,5K+,False,0.0
+Therapeutic biotech / pharma,Postdoc,Endothelial cells,251-5K,False,0.0
+CRO / CDMO,Postdoc,Small molecules,1-10,False,0.0
+Tools and other,Postdoc,Endothelial cells,5K+,False,0.0
+CRO / CDMO,Postdoc,Endothelial cells,5K+,True,2230.0
+Organ-on-chip developer,BD / commercial,Small molecules,5K+,False,0.0
+Tools and other,Postdoc,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Media kits,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,11-250,True,2640.0
+Therapeutic biotech / pharma,BD / commercial,Small molecules,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,11-250,True,280.0
+CRO / CDMO,Postdoc,Media kits,11-250,False,0.0
+Academic / research hospital / gov lab,Postdoc,Endothelial cells,11-250,False,0.0
+Organ-on-chip developer,Founder / C-level,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Media kits,251-5K,False,0.0
+Tools and other,Scientist / lab manager,Endothelial cells,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,True,4010.0
+Academic / research hospital / gov lab,Founder / C-level,Progenitor cells,5K+,True,1820.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,5K+,True,1290.0
+Organ-on-chip developer,Procurement,Endothelial cells,11-250,False,0.0
+CRO / CDMO,BD / commercial,Endothelial cells,251-5K,True,4580.0
+Organ-on-chip developer,Procurement,Endothelial cells,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Progenitor cells,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Small molecules,11-250,False,0.0
+Therapeutic biotech / pharma,Founder / C-level,Endothelial cells,251-5K,True,14030.0
+Academic / research hospital / gov lab,Director / VP science,Small molecules,11-250,True,390.0
+Tools and other,Scientist / lab manager,Small molecules,1-10,False,0.0
+Organ-on-chip developer,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+Organ-on-chip developer,PI / professor,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Procurement,Media kits,11-250,False,0.0
+Therapeutic biotech / pharma,PI / professor,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Endothelial cells,251-5K,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,True,5210.0
+Organ-on-chip developer,Founder / C-level,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,PI / professor,Endothelial cells,251-5K,False,0.0
+Organ-on-chip developer,Postdoc,Progenitor cells,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Media kits,11-250,False,0.0
+CRO / CDMO,Director / VP science,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,PI / professor,Media kits,5K+,True,600.0
+CRO / CDMO,BD / commercial,Small molecules,5K+,False,0.0
+Academic / research hospital / gov lab,Procurement,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+Therapeutic biotech / pharma,PI / professor,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Postdoc,Media kits,5K+,True,1310.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,251-5K,True,3300.0
+Academic / research hospital / gov lab,Director / VP science,Small molecules,5K+,True,640.0
+Therapeutic biotech / pharma,Procurement,Small molecules,11-250,True,1460.0
+Academic / research hospital / gov lab,Founder / C-level,Small molecules,11-250,False,0.0
+Tools and other,Founder / C-level,Small molecules,5K+,True,410.0
+Organ-on-chip developer,BD / commercial,Small molecules,1-10,False,0.0
+Therapeutic biotech / pharma,Director / VP science,Progenitor cells,11-250,False,0.0
+Therapeutic biotech / pharma,Scientist / lab manager,Progenitor cells,251-5K,False,0.0
+Academic / research hospital / gov lab,PI / professor,Small molecules,11-250,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,5K+,True,4380.0
+CRO / CDMO,Director / VP science,Progenitor cells,5K+,False,0.0
+Tools and other,Scientist / lab manager,Endothelial cells,5K+,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Endothelial cells,11-250,False,0.0
+Academic / research hospital / gov lab,Director / VP science,Progenitor cells,251-5K,False,0.0
+Organ-on-chip developer,Founder / C-level,Progenitor cells,1-10,False,0.0
+Academic / research hospital / gov lab,Scientist / lab manager,Media kits,1-10,False,0.0
+Academic / research hospital / gov lab,BD / commercial,Small molecules,1-10,False,0.0
+Academic / research hospital / gov lab,Founder / C-level,Small molecules,5K+,False,0.0
+CRO / CDMO,Scientist / lab manager,Progenitor cells,251-5K,False,0.0

@@ -1,0 +1,3 @@
+scenario,mean_replies,p10,p90,prob_at_least_5
+"Targeted, tiered send",12.7,7.0,19.0,1.0
+Bulk send to same size list,0.7,0.0,2.0,0.0
