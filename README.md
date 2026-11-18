@@ -7,8 +7,9 @@ By [Rishabh Banola](https://github.com/rbanola1) · see also [RevOps-Portfolio](
 | # | Project | Status |
 |---|---|---|
 | 01 | [Signal-based outbound GTM engine](01-outbound-gtm-engine) | In progress: design done, rolling out |
-| 02 | ICP, segmentation and nurture tracks | Planned |
-| 03 | Sequence design and send-discipline playbook | Planned |
+| 02 | [Lead scoring redesign: engagement-only to buy-readiness](02-lead-scoring-redesign) | In progress |
+| 03 | ICP, segmentation and nurture tracks | Planned |
+| 04 | Sequence design and send-discipline playbook | Planned |
 | 04 | Support and prospecting AI agents | Planned |
 | 05 | GTM tool stack evaluation | Planned |
 

@@ -1,0 +1,7 @@
+scheme,stage,contacts,buyers,conversion
+Old: engagement score,Lead,27159,584,0.0215
+Old: engagement score,MQL,2696,88,0.0326
+Old: engagement score,SQL,145,11,0.0759
+New: fit + engagement + intent,Lead,28917,557,0.0193
+New: fit + engagement + intent,MQL,937,105,0.1121
+New: fit + engagement + intent,SQL,146,21,0.1438
