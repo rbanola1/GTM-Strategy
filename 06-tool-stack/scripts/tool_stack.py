@@ -69,7 +69,8 @@ COL = {"Stage 1: Prove": TEAL, "Stage 2: Scale data": GOLD, "Stage 3: Target sys
 fig, ax = plt.subplots(1, 3, figsize=(17, 5.2))
 fig.suptitle("RB Tech | GTM tool stack (synthetic data)", fontsize=13, weight="bold")
 d = df.sort_values("weighted_score")
-ax[0].barh([t[:42] for t in d.tool], d.weighted_score, color=[COL[s] for s in d.stage])
+import textwrap
+ax[0].barh([textwrap.fill(t, 34) for t in d.tool], d.weighted_score, color=[COL[s] for s in d.stage])
 ax[0].set(title="Weighted score (0-100)", xlabel="score")
 ax[0].tick_params(axis="y", labelsize=7)
 for s, c in COL.items():
