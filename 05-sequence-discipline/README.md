@@ -27,6 +27,18 @@ A set of rules and a simulation that shows the effect of operating style on resu
 
 **Reading it:** the paced style sends one-tenth of the email and gets more than twice the real replies. The stop rule would have halted the bulk run after 800 emails instead of 18,000, saving about a month of low-value sending and protecting the sender's reputation.
 
+## Results from one quarter in practice (numbers scaled and rounded)
+| Stage | Volume (approx.) | Rate from previous stage |
+|---|---|---|
+| Leads enrolled in sequences | 32,000 | n/a |
+| Marketing-qualified leads | 3,000 | about 9% |
+| Sales-qualified leads | 150 | about 5% |
+| Opportunities | 5 | about 3% |
+
+- **Tracking:** an automated BI-style tracker now reports enrolments, replies, qualification and opportunities by sequence each week, with no manual counting.
+- **People:** the team was retrained on the sequence process: who to enrol, the send cap, the stop rule and how to hand off a reply.
+- **Lesson:** volume without fit produced very few opportunities. Enrolling more people did not create more buyers; it created more sends per reply. That result led directly to the work on [lead scoring](../02-lead-scoring-redesign) and the [ideal customer profile and nurture design](../03-icp-and-nurture), which put fit ahead of volume.
+
 ## Design decisions
 1. **Volume is capped by the system, not by ambition.** Enrol only what drains within about a week at the daily cap.
 2. **Signal in line one.** The reason for writing today (a paper, a grant, a visit, a job post) is the hook.
