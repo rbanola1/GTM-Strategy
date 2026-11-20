@@ -4,6 +4,18 @@
 
 ![Sequence discipline](charts/sequence_discipline.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Bulk sends with very few replies"] --> B["Send caps and a stop rule"] --> C["38 against 947 emails per real reply"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Outbound ran as mass enrollment: thousands of contacts enrolled in a sequence at once, far beyond the daily send limit, so a "launch" took weeks to finish and nobody could say which message worked. Replies counted auto-replies, opens were inflated by security scanners, and the reply rate was a fraction of a percent. Competitor staff and existing customers sat in the lists. Meanwhile a small, targeted sequence sent by hand got several percent replies.
 

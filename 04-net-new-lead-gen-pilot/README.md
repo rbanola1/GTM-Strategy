@@ -4,6 +4,18 @@
 
 ![Pilot overview](charts/pilot_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Large lists full of known contacts"] --> B["Suppress first, tier first, enrich last"] --> C["473 against 128 usable leads on the same budget"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 The existing process for finding new contacts was keyword pulls from a contact database, an email verifier, bulk e-blasts, then reps emailing people who opened. Most contacts were already in the CRM, many were competitors or tiny companies, replies were rare, and every enrichment step costs money. The goal of the pilot: test whether a data-enrichment platform plus free scientific sources can produce **net-new, high-fit contacts** that reps and e-blasts have not already reached, and measure the real cost per lead and per reply.
 

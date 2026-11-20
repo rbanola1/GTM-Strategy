@@ -4,6 +4,18 @@
 
 ![ICP and nurture](charts/icp_nurture_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["No agreed target customer"] --> B["ICP, account tiers and nurture tracks"] --> C["Win rate known by segment and role"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Outbound targeting rested on assumptions: nobody had written down who actually buys, which roles close, or how big the buyer's organisation tends to be. Contacts from every segment were treated alike, there was no tiering of accounts, and good-fit contacts who were not ready to buy had nowhere to go, so they either received sales sequences too early or were forgotten.
 

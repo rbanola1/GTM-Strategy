@@ -4,6 +4,18 @@ Fictional company: RB Tech · **All data is synthetic**
 
 ![Engine overview](charts/engine_overview.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Outbound without buying signals"] --> B["Signals, suppress, score, route by fit and intent"] --> C["Higher reply rate when a signal is present"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 Outbound ran as volume: large sequence blasts to imported lists, a few percent reply rate, no written ICP, an engagement-only lead score with no "fit" side, and no rule for when a warm contact should go to a rep. Sending more did not produce more meetings.
 

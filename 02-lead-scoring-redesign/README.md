@@ -4,6 +4,18 @@
 
 ![Scoring back-test](charts/scoring_backtest.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Lead score based on engagement only"] --> B["Fit, engagement and intent score, back-tested"] --> C["MQL buy rate 3.3% to 11.2%"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 MQL and SQL were defined purely by an engagement score: **MQL at 15 points, SQL at 30**. The score counted opens, any form fill, any page visit, and even the team's own actions (enrolling a contact in a sequence, calling them). It had no notion of **who** the contact was. Results:
 - Opens are inflated by security scanners, and own actions score points that say nothing about the buyer.

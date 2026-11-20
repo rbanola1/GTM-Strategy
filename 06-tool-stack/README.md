@@ -4,6 +4,18 @@
 
 ![Tool stack](charts/tool_stack.png)
 
+## At a glance
+```mermaid
+flowchart LR
+    A["Tools bought before the process was proven"] --> B["Score, gate, then scale"] --> C["Spend follows proven stages"]
+    classDef p fill:#EEF0F3,stroke:#9AA5B1,color:#222
+    classDef b fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef r fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    class A p
+    class B b
+    class C r
+```
+
 ## The problem
 A crowded market of sales and marketing tools promises more leads, and each looks cheap on its own. Buying them one by one adds cost, overlapping features, extra places to keep data, and no proof that any single tool solved a bottleneck. The constraint here was a small team with a hard cap on new tool spend.
 
