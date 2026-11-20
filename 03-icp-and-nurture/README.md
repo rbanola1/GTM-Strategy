@@ -1,6 +1,6 @@
 # 03 | ICP, Account Tiers and Nurture Tracks
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![ICP and nurture](charts/icp_nurture_overview.png)
 

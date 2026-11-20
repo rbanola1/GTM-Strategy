@@ -1,4 +1,4 @@
-"""GTM tool stack evaluation with weighted scoring and staged spend gates (fictional Aurelis Life Sciences).
+"""GTM tool stack evaluation with weighted scoring and staged spend gates (fictional RB Tech).
 
 Tools are generic categories with invented prices. The method: score each option against weighted criteria,
 adopt only what solves a measured bottleneck, and release spend in stages behind gates.
@@ -67,7 +67,7 @@ plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.righ
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 COL = {"Stage 1: Prove": TEAL, "Stage 2: Scale data": GOLD, "Stage 3: Target system": BLUE, "Not recommended": GREY}
 fig, ax = plt.subplots(1, 3, figsize=(17, 5.2))
-fig.suptitle("Aurelis Life Sciences | GTM tool stack (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | GTM tool stack (synthetic data)", fontsize=13, weight="bold")
 d = df.sort_values("weighted_score")
 ax[0].barh([t[:42] for t in d.tool], d.weighted_score, color=[COL[s] for s in d.stage])
 ax[0].set(title="Weighted score (0-100)", xlabel="score")

@@ -1,4 +1,4 @@
-"""Net-new lead generation pilot: suppress first, tier first, enrich last (fictional Aurelis Life Sciences).
+"""Net-new lead generation pilot: suppress first, tier first, enrich last (fictional RB Tech).
 
 Compares two ways to spend a fixed enrichment credit budget on 3,000 candidate contacts:
   A. "Enrich everything, filter later"
@@ -121,7 +121,7 @@ test.to_csv(DATA / "action_costs.csv", index=False)
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Net-new lead generation pilot (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Net-new lead generation pilot (synthetic data)", fontsize=13, weight="bold")
 ax[0].barh(wf.step[::-1], wf.contacts[::-1], color=BLUE)
 ax[0].set(title="Pilot funnel: suppress first", xlabel="contacts")
 ax[0].tick_params(axis="y", labelsize=7)

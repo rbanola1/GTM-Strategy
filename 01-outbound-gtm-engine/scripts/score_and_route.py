@@ -1,6 +1,6 @@
 """Synthetic fit x intent scoring and routing for a signal-based outbound GTM engine.
 
-Company is fictional (Aurelis Life Sciences). All contacts, signals and outcomes are invented.
+Company is fictional (RB Tech). All contacts, signals and outcomes are invented.
 Run:  python scripts/score_and_route.py     (writes data/*.csv and charts/*.png)
 Needs: pandas, numpy, matplotlib
 """
@@ -116,7 +116,7 @@ plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.righ
 COL = {"HOT: rep in 48h": "#D1495B", "WARM: marketing nurture": "#E9A23B",
        "CHECK: review by hand": "#2B5C9E", "HOLD: not marketed": "#9AA5B1"}
 fig, ax = plt.subplots(1, 3, figsize=(16, 5))
-fig.suptitle("Aurelis Life Sciences | Signal-based outbound engine (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Signal-based outbound engine (synthetic data)", fontsize=13, weight="bold")
 for name, g in active.groupby("lane"):
     ax[0].scatter(g.intent_score + rng.normal(0, .6, len(g)), g.fit_score + rng.normal(0, .6, len(g)),
                   s=6, alpha=.5, color=COL[name], label=f"{name} ({len(g):,})")

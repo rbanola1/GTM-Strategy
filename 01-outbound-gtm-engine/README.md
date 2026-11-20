@@ -1,6 +1,6 @@
 # 01 | Signal-Based Outbound GTM Engine
 
-Fictional company: Aurelis Life Sciences · **All data is synthetic**
+Fictional company: RB Tech · **All data is synthetic**
 
 ![Engine overview](charts/engine_overview.png)
 

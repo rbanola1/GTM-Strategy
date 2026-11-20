@@ -1,6 +1,6 @@
 # 06 | GTM Tool Stack: Evaluate, Gate, Then Scale
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic** · Prices are invented, tools shown by category
+**Fictional company:** RB Tech · **All data is synthetic** · Prices are invented, tools shown by category
 
 ![Tool stack](charts/tool_stack.png)
 

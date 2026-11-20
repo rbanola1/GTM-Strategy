@@ -1,6 +1,6 @@
 # 04 | Net-New Lead Generation Pilot: Suppress First, Tier First, Enrich Last
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Pilot overview](charts/pilot_overview.png)
 

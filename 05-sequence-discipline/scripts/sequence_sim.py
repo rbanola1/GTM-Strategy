@@ -1,4 +1,4 @@
-"""Sequence discipline: mass enrollment vs paced, signal-based sending (fictional Aurelis Life Sciences).
+"""Sequence discipline: mass enrollment vs paced, signal-based sending (fictional RB Tech).
 
 Simulates a 3-step email sequence under two operating styles and applies the stop rule
 (pause if the reply rate is under 1% after about 500 sends). All numbers are synthetic.
@@ -80,7 +80,7 @@ print(tab.to_string(index=False))
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Sequence discipline (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Sequence discipline (synthetic data)", fontsize=13, weight="bold")
 for df, c, lab in ((bulk, RED, "Bulk"), (paced, TEAL, "Paced, targeted")):
     ax[0].plot(df.day, df.cum_sends, color=c, label=lab)
 ax[0].legend(fontsize=8)

@@ -1,6 +1,6 @@
 """Back-test an engagement-only lead score against a fit + engagement + intent score (synthetic).
 
-Fictional company Aurelis Life Sciences; contacts, behaviour and outcomes are simulated.
+Fictional company RB Tech; contacts, behaviour and outcomes are simulated.
 Questions answered:
   1. Does the old engagement-only score (MQL >= 15, SQL >= 30) predict who buys?
   2. Does a fit + engagement + intent score (0-100, split 55 / 25 / 20) do better?
@@ -133,7 +133,7 @@ pd.Series({"contacts": N, "buyers": total_buyers, "auc_old": round(auc_old, 3), 
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | Lead score back-test (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | Lead score back-test (synthetic data)", fontsize=13, weight="bold")
 
 def roc(score, y):
     o = np.argsort(-score)

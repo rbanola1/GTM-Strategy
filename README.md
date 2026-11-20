@@ -1,6 +1,6 @@
 # GTM Strategy
 
-Go-to-market work rebuilt on **synthetic data** for a fictional life-science tools company, **Aurelis Life Sciences**. Methods come from real commercial-operations work; no real contacts, customers, prices or company data appear here.
+Go-to-market work rebuilt on **synthetic data** for a fictional life-science tools company, **RB Tech**. Methods come from real commercial-operations work; no real contacts, customers, prices or company data appear here.
 
 By [Rishabh Banola](https://github.com/rbanola1) · see also [RevOps-Portfolio](https://github.com/rbanola1/RevOps-Portfolio).
 

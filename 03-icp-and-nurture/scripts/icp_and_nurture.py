@@ -1,4 +1,4 @@
-"""Build ICP cards from synthetic won/lost deals and simulate nurture tracks (fictional Aurelis Life Sciences).
+"""Build ICP cards from synthetic won/lost deals and simulate nurture tracks (fictional RB Tech).
 
 1. Profile 360 closed deals by segment, role, organisation size and product to find who buys.
 2. Turn the pattern into ICP cards and account tiers (A / B / C).
@@ -108,7 +108,7 @@ print(pd.DataFrame(cards).to_string(index=False))
 plt.rcParams.update({"font.size": 9, "axes.spines.top": False, "axes.spines.right": False})
 BLUE, TEAL, GOLD, RED, GREY = "#2B5C9E", "#2A9D8F", "#E9A23B", "#D1495B", "#9AA5B1"
 fig, ax = plt.subplots(1, 4, figsize=(19, 4.8))
-fig.suptitle("Aurelis Life Sciences | ICP and nurture (synthetic data)", fontsize=13, weight="bold")
+fig.suptitle("RB Tech | ICP and nurture (synthetic data)", fontsize=13, weight="bold")
 s = seg_t.sort_values("win_rate")
 ax[0].barh([x[:28] for x in s.index], s.win_rate * 100, color=BLUE)
 ax[0].axvline(d.won.mean() * 100, color="k", ls="--", lw=.8)

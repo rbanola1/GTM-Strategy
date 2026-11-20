@@ -1,6 +1,6 @@
 # 05 | Sequence Design and Send Discipline
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Sequence discipline](charts/sequence_discipline.png)
 

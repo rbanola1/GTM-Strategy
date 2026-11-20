@@ -1,6 +1,6 @@
 # 02 | Lead Scoring Redesign: From Engagement-Only to Buy-Readiness
 
-**Fictional company:** Aurelis Life Sciences · **All data is synthetic**
+**Fictional company:** RB Tech · **All data is synthetic**
 
 ![Scoring back-test](charts/scoring_backtest.png)
 
