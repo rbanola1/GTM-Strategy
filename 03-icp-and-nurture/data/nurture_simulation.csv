@@ -1,49 +1,49 @@
 track,week,in_track,promoted_total,exited_total
-Endothelial,1,1294,9,0
-Endothelial,2,1285,13,0
-Endothelial,3,1281,17,0
-Endothelial,4,1277,19,0
-Endothelial,5,1275,24,0
-Endothelial,6,1270,32,0
-Endothelial,7,1262,38,0
-Endothelial,8,1256,43,0
-Endothelial,9,1251,47,0
-Endothelial,10,1247,52,0
-Endothelial,11,1242,58,82
-Endothelial,12,1154,64,138
-Endothelial,13,1093,70,198
-Endothelial,14,1027,72,241
-Endothelial,15,982,80,267
-Endothelial,16,948,83,297
-Progenitor,1,991,6,0
-Progenitor,2,985,13,0
-Progenitor,3,978,19,0
-Progenitor,4,972,25,0
-Progenitor,5,966,28,0
-Progenitor,6,963,31,0
-Progenitor,7,960,36,0
-Progenitor,8,955,44,0
-Progenitor,9,947,47,0
-Progenitor,10,944,51,0
-Progenitor,11,940,52,74
-Progenitor,12,865,56,114
-Progenitor,13,821,61,161
-Progenitor,14,769,63,194
-Progenitor,15,734,65,222
-Progenitor,16,704,67,241
-Small molecules,1,1591,4,0
-Small molecules,2,1587,7,0
-Small molecules,3,1584,13,0
-Small molecules,4,1578,17,0
-Small molecules,5,1574,22,0
-Small molecules,6,1569,29,0
-Small molecules,7,1562,35,0
-Small molecules,8,1556,43,0
-Small molecules,9,1548,46,0
-Small molecules,10,1545,54,0
-Small molecules,11,1537,57,78
-Small molecules,12,1456,64,128
-Small molecules,13,1400,71,172
-Small molecules,14,1349,81,196
-Small molecules,15,1315,89,232
-Small molecules,16,1271,95,251
+Line A,1,1294,9,0
+Line A,2,1285,13,0
+Line A,3,1281,17,0
+Line A,4,1277,19,0
+Line A,5,1275,24,0
+Line A,6,1270,32,0
+Line A,7,1262,38,0
+Line A,8,1256,43,0
+Line A,9,1251,47,0
+Line A,10,1247,52,0
+Line A,11,1242,58,82
+Line A,12,1154,64,138
+Line A,13,1093,70,198
+Line A,14,1027,72,241
+Line A,15,982,80,267
+Line A,16,948,83,297
+Line B,1,991,6,0
+Line B,2,985,13,0
+Line B,3,978,19,0
+Line B,4,972,25,0
+Line B,5,966,28,0
+Line B,6,963,31,0
+Line B,7,960,36,0
+Line B,8,955,44,0
+Line B,9,947,47,0
+Line B,10,944,51,0
+Line B,11,940,52,74
+Line B,12,865,56,114
+Line B,13,821,61,161
+Line B,14,769,63,194
+Line B,15,734,65,222
+Line B,16,704,67,241
+Compound Sets,1,1591,4,0
+Compound Sets,2,1587,7,0
+Compound Sets,3,1584,13,0
+Compound Sets,4,1578,17,0
+Compound Sets,5,1574,22,0
+Compound Sets,6,1569,29,0
+Compound Sets,7,1562,35,0
+Compound Sets,8,1556,43,0
+Compound Sets,9,1548,46,0
+Compound Sets,10,1545,54,0
+Compound Sets,11,1537,57,78
+Compound Sets,12,1456,64,128
+Compound Sets,13,1400,71,172
+Compound Sets,14,1349,81,196
+Compound Sets,15,1315,89,232
+Compound Sets,16,1271,95,251

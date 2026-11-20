@@ -25,7 +25,7 @@ SEG = {"Academic / research hospital / gov lab": ("Lab buyer", .44), "Therapeuti
        "Organ-on-chip developer": ("Programme buyer", .12), "CRO / CDMO": ("Service buyer", .12), "Tools and other": ("Other", .10)}
 ROLES = {"PI / professor": .15, "Scientist / lab manager": .32, "Postdoc": .13, "Director / VP science": .10,
          "Founder / C-level": .17, "BD / commercial": .08, "Procurement": .05}
-PRODUCT = {"Endothelial cells": .35, "Progenitor cells": .30, "Small molecules": .25, "Media kits": .10}
+PRODUCT = {"Cell Line A": .35, "Cell Line B": .30, "Compound Sets": .25, "Media kits": .10}
 SIZE = {"1-10": .18, "11-250": .30, "251-5K": .22, "5K+": .30}
 d = pd.DataFrame({
     "segment": rng.choice(list(SEG), N, p=[v[1] for v in SEG.values()]),
@@ -41,7 +41,7 @@ role_eff = {"PI / professor": .9, "Scientist / lab manager": .6, "Postdoc": .3, 
 size_eff = {"1-10": -.9, "11-250": -.1, "251-5K": 0, "5K+": .7}
 logit = base + d.segment.map(seg_eff) + d.role.map(role_eff) + d["size"].map(size_eff)
 d["won"] = rng.random(N) < 1 / (1 + np.exp(-logit))
-price = {"Endothelial cells": 3200, "Progenitor cells": 2600, "Small molecules": 450, "Media kits": 900}
+price = {"Cell Line A": 3200, "Cell Line B": 2600, "Compound Sets": 450, "Media kits": 900}
 d["amount"] = np.where(d.won, d["product"].map(price) * rng.lognormal(0, .5, N) *
                        np.where(d.segment.isin(["Therapeutic biotech / pharma", "Organ-on-chip developer"]), 3.2, 1), 0).round(-1)
 d.to_csv(DATA / "closed_deals.csv", index=False)
@@ -66,7 +66,7 @@ tt.to_csv(DATA / "tier_performance.csv")
 print(tt.to_string())
 
 # ---------------- 3. nurture simulation ----------------
-TRACKS = {"Endothelial": 2400, "Progenitor": 1800, "Small molecules": 3000}
+TRACKS = {"Line A": 2400, "Line B": 1800, "Compound Sets": 3000}
 WEEKS = 16
 rows = []
 for track, n in TRACKS.items():
@@ -76,7 +76,7 @@ for track, n in TRACKS.items():
     exited = np.zeros(n, bool)
     for w in range(WEEKS):
         active = fit_ok & ~promoted & ~exited
-        click = (rng.random(n) < (0.05 if track != "Small molecules" else 0.07)) & active
+        click = (rng.random(n) < (0.05 if track != "Compound Sets" else 0.07)) & active
         visit = (rng.random(n) < .015) & active
         engaged += click * 5 + visit * 8
         handraise = (rng.random(n) < .004) & active          # reply, quote, sample request

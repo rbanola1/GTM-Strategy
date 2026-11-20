@@ -23,7 +23,7 @@ Build the ICP from won deals, not from guesses: profile every closed-won deal fo
 | Research areas | Endothelial, barrier models, perfusion, microphysiological systems |
 | Trigger events | New grant award, new paper on vascular models, hiring a cell-culture scientist, pricing-page visit |
 | Disqualifiers | Student-only contact, competitor domain, existing tiny account |
-| Best first product | Starter cell vial plus expansion medium kit |
+| Best first product | Starter cell vial plus growth medium kit |
 | Proof | Application note, protocol, one reference customer type |
 
 ## Persona field

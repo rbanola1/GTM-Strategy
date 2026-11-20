@@ -3,9 +3,9 @@
 ## Tracks
 | Track | Content | For |
 |---|---|---|
-| Endothelial | Application notes, protocols, media guidance, webinar invitations | Contacts with endothelial or vascular research |
-| Progenitor | Hematopoietic protocols, application data, comparisons | Blood and immune research |
-| Small molecules | Product highlights, bundle offers, protocol tips | Any research group using differentiation or culture reagents |
+| Line A | Application notes, protocols, media guidance, webinar invitations | Contacts with line A or vascular research |
+| Line B | Hematopoietic protocols, application data, comparisons | Blood and immune research |
+| Compound Sets | Product highlights, bundle offers, protocol tips | Any research group using differentiation or culture reagents |
 
 Each track is a short series of emails over 12-16 weeks, one useful item per send, never a sales pitch first.
 
@@ -32,9 +32,9 @@ Click 5 · pricing, product or protocol page visit 8 · webinar attendance 10. O
 ## Synthetic results (16 weeks)
 | Track | Contacts | Promoted to a rep |
 |---|---|---|
-| Endothelial | 2,400 | 3.5% |
-| Progenitor | 1,800 | 3.7% |
-| Small molecules | 3,000 | 3.2% |
+| Line A | 2,400 | 3.5% |
+| Line B | 1,800 | 3.7% |
+| Compound Sets | 3,000 | 3.2% |
 
 ## Monitoring
 Entry volume, promotion rate by track, time to promotion, share exiting without engagement, unsubscribe rate, and conversion of promoted contacts to meetings.

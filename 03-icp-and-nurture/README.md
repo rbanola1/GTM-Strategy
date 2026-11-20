@@ -23,7 +23,7 @@ Outbound targeting rested on assumptions: nobody had written down who actually b
 1. **Won-deal profiling.** Every closed deal (360 in the synthetic set) is profiled by segment, role, organisation size and product to see win rate and deal value for each ([data](data)).
 2. **ICP cards** for the strongest segments, each with who buys, why, buyer personas, triggers, disqualifiers and the best first product ([docs/icp_cards.md](docs/icp_cards.md)).
 3. **Account tiers A, B and C** built from segment, role and size points, validated against win rate and deal size.
-4. **Three product nurture tracks** (endothelial, progenitor, small molecules) with entry, engagement, promotion and exit rules ([docs/nurture_tracks.md](docs/nurture_tracks.md)).
+4. **Three product nurture tracks** (line A, line B, compound sets) with entry, engagement, promotion and exit rules ([docs/nurture_tracks.md](docs/nurture_tracks.md)).
 
 ## What the data shows
 | Finding | Evidence |
@@ -38,7 +38,7 @@ Outbound targeting rested on assumptions: nobody had written down who actually b
 1. **Build the ICP from won deals, not from opinion**, and re-check every quarter as deals accumulate.
 2. **Separate lab buyers from programme buyers.** They need different messages, speed and owners, and deal size belongs in the account tier rather than in the contact score.
 3. **One decision-maker plus at most one escalation contact per account.**
-4. **Nurture by product**, so a contact interested in endothelial cells does not get small-molecule emails.
+4. **Nurture by product**, so a contact interested in cell line A does not get small-molecule emails.
 5. **Promotion on behaviour**: a hand-raise or enough engagement points moves a contact to a rep; no engagement for ten weeks moves them out.
 6. **Marketing owns entry and exit rules**, so nurture does not grow into a dumping ground.
 
