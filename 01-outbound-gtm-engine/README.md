@@ -72,6 +72,7 @@ The point is not the absolute numbers, which are simulated. It is the design: ta
 ## Documents
 | Doc | Contents |
 |---|---|
+| [docs/diagnosis_from_history.md](docs/diagnosis_from_history.md) | Why a high-volume process produced few deals: idle leads, touch points by outcome, awareness root cause, over-mailing check, sequence results by list type, funnel velocity |
 | [docs/icp_and_personas.md](docs/icp_and_personas.md) | ICP card template and example for one segment |
 | [docs/signal_catalog.md](docs/signal_catalog.md) | Intent signals, sources, points, how each is used |
 | [docs/scoring_model.md](docs/scoring_model.md) | Fit and intent scoring, thresholds, decay, re-weighting |

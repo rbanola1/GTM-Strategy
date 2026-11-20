@@ -51,6 +51,15 @@ A set of rules and a simulation that shows the effect of operating style on resu
 - **People:** the team was retrained on the sequence process: who to enrol, the send cap, the stop rule and how to hand off a reply.
 - **Lesson:** volume without fit produced very few opportunities. Enrolling more people did not create more buyers; it created more sends per reply. That result led directly to the work on [lead scoring](../02-lead-scoring-redesign) and the [ideal customer profile and nurture design](../03-icp-and-nurture), which put fit ahead of volume.
 
+## What the history showed by list type (rounded)
+| List type | Real reply rate |
+|---|---|
+| Bulk keyword lists | about 0.15% |
+| Past-attendee cold list | about 0.04% |
+| Event follow-up | about 0.7% |
+| Targeted accounts | about 0.9% |
+Event follow-up and targeted accounts replied at about five to six times the bulk rate, about 27% of real replies said wrong person or field, and open rates did not predict replies. See [the diagnosis](../01-outbound-gtm-engine/docs/diagnosis_from_history.md).
+
 ## Design decisions
 1. **Volume is capped by the system, not by ambition.** Enrol only what drains within about a week at the daily cap.
 2. **Signal in line one.** The reason for writing today (a paper, a grant, a visit, a job post) is the hook.
