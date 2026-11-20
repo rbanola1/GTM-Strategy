@@ -60,7 +60,7 @@ A set of rules and a simulation that shows the effect of operating style on resu
 6. **Targeted and bulk are different programmes** with different expectations; never judge one by the other.
 
 ## Documents and diagrams
-- [docs/sequence_design.md](docs/sequence_design.md) · [docs/pacing_and_deliverability.md](docs/pacing_and_deliverability.md) · [docs/measurement.md](docs/measurement.md)
+- [docs/sequence_basics.md](docs/sequence_basics.md) · [docs/sequence_design.md](docs/sequence_design.md) · [docs/pacing_and_deliverability.md](docs/pacing_and_deliverability.md) · [docs/measurement.md](docs/measurement.md)
 - [diagrams/send_discipline.md](diagrams/send_discipline.md)
 
 ## Reproduce
