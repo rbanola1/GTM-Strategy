@@ -10,7 +10,7 @@ All figures come from the synthetic won-deal set.
 | Typical won deal | About $2.3K |
 | Why they buy | Reliable, ready-to-use cells and reagents for experiments and grant-funded projects |
 | Buyer personas | PI or professor (decides), scientist or lab manager (evaluates and orders), postdoc (influences), procurement (processes the order) |
-| Best first product | Cell Line B or a starter small-molecule set |
+| Best first product | Cell Line B or a starter compound setecule set |
 | Triggers | New grant award, new paper on the topic, new lab setup, new PI |
 | Disqualifiers | Student-only contact, competitor-sponsored lab |
 | Message | Reproducible results, protocol support, fast delivery |
