@@ -35,6 +35,9 @@ The existing process for finding new contacts was keyword pulls from a contact d
 6. **Stop rule:** if the reply rate stays under 1% after 500 sends, pause and fix targeting or message before sending more.
 7. **A person approves any spend.** Estimate credits first, then run.
 
+## Related project
+The tool layer that runs these steps with an AI assistant over MCP is in [RevOps-Portfolio 18](https://github.com/rbanola1/RevOps-Portfolio/tree/main/18-ai-scientific-prospecting-mcp).
+
 ## Documents and diagrams
 - [docs/pilot_design.md](docs/pilot_design.md) · [docs/cost_control.md](docs/cost_control.md) · [docs/measurement_plan.md](docs/measurement_plan.md)
 - [diagrams/pilot_funnel.md](diagrams/pilot_funnel.md)
