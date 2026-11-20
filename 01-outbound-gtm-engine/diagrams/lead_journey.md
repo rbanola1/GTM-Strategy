@@ -1,35 +1,25 @@
-# Lead journey: signal to sale in seven steps
+# Lead journey: signal to sale in six boxes
 
-```mermaid
-flowchart TD
-    A[1 Find<br/>site visits, research topics, papers, grants] --> B[2 Clean<br/>dedupe, drop customers, competitors, small co]
-    B --> C[3 Enrich<br/>industry, size, segment, persona]
-    C --> D[4 Score<br/>fit + intent]
-    D --> E{5 Route}
-    E -->|high fit + intent| F[Rep email within 48h]
-    E -->|high fit, no intent| G[Marketing nurture by product]
-    E -->|low fit + intent| H[Weekly hand review]
-    E -->|low fit, no intent| I[Hold, not marketed]
-    F --> J[6 Engage<br/>personal, signal-based opener]
-    G --> J
-    H --> J
-    J --> K[7 Close and measure<br/>meeting, deal, funnel by product and source]
-    K -.->|monthly re-weight| D
-```
-
-## Tool map (one tool per stage)
 ```mermaid
 flowchart LR
-    CRM[(CRM: contacts, deals, workflows, scoring)]
-    SIG[Public signals: papers, grants, competitor citations]
-    INT[Website and buyer intent]
-    DB[Academic contact database]
-    AI[AI assistant: profiling, dedupe, openers, monthly review]
-    WIKI[Team wiki: ICP cards, tracker]
-    SIG --> AI
-    DB --> AI
-    INT --> CRM
-    AI -->|clean, enriched lists| CRM
-    CRM -->|won deals, outcomes| AI
-    AI --> WIKI
+    A["1 Find: signals from papers, grants and site visits"] --> B["2 Clean and enrich"]
+    B --> C["3 Score: fit and intent"]
+    C --> D{"4 Route"}
+    D -->|"good fit and intent"| E["Rep emails within 48 hours"]
+    D -->|"good fit, no intent"| F["Marketing nurture"]
+    D -->|"weak fit"| G["Review or hold"]
+    E --> H["5 Engage and 6 measure"]
+    F --> H
+    G --> H
+    H -.->|"monthly re-weight"| C
+    classDef a fill:#DCE8F7,stroke:#2B5C9E,color:#222
+    classDef g fill:#CFE9E3,stroke:#2A9D8F,color:#222
+    classDef y fill:#FBE5B6,stroke:#E9A23B,color:#222
+    class A,B,C a
+    class D y
+    class E,F,G,H g
 ```
+
+How to read it: find people with a reason to buy, clean and score them, send each to the right route, and use results each month to improve the score.
+
+Full detail with every connection: [lead_journey_full_detail.md](lead_journey_full_detail.md).
