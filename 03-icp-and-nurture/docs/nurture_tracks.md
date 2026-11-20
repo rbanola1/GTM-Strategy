@@ -3,8 +3,8 @@
 ## Tracks
 | Track | Content | For |
 |---|---|---|
-| Line A | Application notes, protocols, media guidance, webinar invitations | Contacts with line A or vascular research |
-| Line B | Hematopoietic protocols, application data, comparisons | Blood and immune research |
+| Line A | Application notes, protocols, media guidance, webinar invitations | Contacts with line A or tissue research |
+| Line B | Core area 2 protocols, application data, comparisons | Blood and immune research |
 | Compound Sets | Product highlights, bundle offers, protocol tips | Any research group using differentiation or culture reagents |
 
 Each track is a short series of emails over 12-16 weeks, one useful item per send, never a sales pitch first.

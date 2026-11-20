@@ -23,7 +23,7 @@ N = 4000
 SEGMENTS = {"Organ-on-chip": .12, "Cell therapy developer": .14, "Pharma": .10, "CRO": .10,
             "Academic lab": .46, "Hospital / core": .05, "Other": .03}
 ROLES = {"PI / Director": .20, "Scientist": .38, "Postdoc / Student": .27, "Procurement": .05, "Other": .10}
-AREAS = {"Endothelial / vascular": .22, "Hematopoietic": .20, "Neural": .18, "Cardiac": .12,
+AREAS = {"Core area 1": .22, "Core area 2": .20, "Adjacent area": .18, "Other area": .12,
          "Off-topic": .28}
 SOURCES = {"CRM existing": .25, "Paper authors": .30, "Grant database": .15,
            "Website visitors": .15, "Event scans": .15}
@@ -54,8 +54,8 @@ FIT = {
     "segment": {"Organ-on-chip": 25, "Cell therapy developer": 22, "Pharma": 20, "CRO": 15,
                 "Academic lab": 10, "Hospital / core": 8, "Other": 0},
     "role": {"PI / Director": 20, "Scientist": 15, "Postdoc / Student": 4, "Procurement": 10, "Other": 0},
-    "research_area": {"Endothelial / vascular": 25, "Hematopoietic": 25, "Neural": 12,
-                      "Cardiac": 10, "Off-topic": -15},
+    "research_area": {"Core area 1": 25, "Core area 2": 25, "Adjacent area": 12,
+                      "Other area": 10, "Off-topic": -15},
 }
 active["fit_score"] = (active.segment.map(FIT["segment"]) + active.role.map(FIT["role"])
                        + active.research_area.map(FIT["research_area"])

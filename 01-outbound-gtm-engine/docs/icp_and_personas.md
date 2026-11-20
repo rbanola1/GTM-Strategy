@@ -18,10 +18,10 @@ Build the ICP from won deals, not from guesses: profile every closed-won deal fo
 | Field | Value |
 |---|---|
 | Segment | Organ-on-chip developers |
-| Why they buy | Need reproducible vascular cells to build barrier and perfusion models |
+| Why they buy | Need reproducible cells to build barrier and perfusion models |
 | Buyer personas | Head of R&D (decision), scientist (evaluator), procurement (order) |
-| Research areas | Endothelial, barrier models, perfusion, microphysiological systems |
-| Trigger events | New grant award, new paper on vascular models, hiring a cell-culture scientist, pricing-page visit |
+| Research areas | Barrier models, perfusion, microphysiological systems |
+| Trigger events | New grant award, new paper on tissue models, hiring a cell-culture scientist, pricing-page visit |
 | Disqualifiers | Student-only contact, competitor domain, existing tiny account |
 | Best first product | Starter cell vial plus growth medium kit |
 | Proof | Application note, protocol, one reference customer type |

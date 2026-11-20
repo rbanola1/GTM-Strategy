@@ -18,13 +18,13 @@ All figures come from the synthetic won-deal set.
 ## Card 2: Organ-on-chip and platform developers (programme buyer)
 | Field | Value |
 |---|---|
-| Who | Companies building vascularised and organ-on-chip models |
+| Who | Companies building tissueised and organ-on-chip models |
 | Win rate | About 32%; 50 deals |
 | Typical won deal | About $9.2K |
 | Why they buy | Need consistent human cell sources and media to build barrier and perfusion models |
 | Buyer personas | Head of R&D or biology (decides), scientist (evaluates), founder or CSO (sponsors), procurement |
 | Best first product | Cell Line A with media |
-| Triggers | Funding round, new platform launch, hiring in vascular or in vitro toxicology, conference presence |
+| Triggers | Funding round, new platform launch, hiring in tissue or in vitro toxicology, conference presence |
 | Disqualifiers | Competitor already embedded with an exclusive agreement, company under 11 people |
 | Message | Application data, scalability, technical support |
 

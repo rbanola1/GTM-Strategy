@@ -26,7 +26,7 @@ N = 30000
 SEG = {"Organ-on-chip": 1.0, "Cell therapy": 0.9, "Pharma": 0.7, "CRO": 0.5, "Academic": 0.4,
        "Hospital/core": 0.2, "Other": -0.3}
 ROLE = {"PI/Director": 0.8, "Scientist": 0.6, "Procurement": 0.4, "Postdoc/Student": -0.2, "Other": -0.5}
-AREA = {"Endothelial/vascular": 1.0, "Hematopoietic": 0.9, "Neural": 0.2, "Off-topic": -1.0}
+AREA = {"Core area 1": 1.0, "Core area 2": 0.9, "Adjacent area": 0.2, "Off-topic": -1.0}
 df = pd.DataFrame({
     "segment": rng.choice(list(SEG), N, p=[.07, .09, .08, .08, .55, .05, .08]),
     "role": rng.choice(list(ROLE), N, p=[.15, .38, .06, .28, .13]),
@@ -74,7 +74,7 @@ company_fit = (df.segment.map({"Organ-on-chip": 14, "Cell therapy": 13, "Pharma"
                + df.company_size.map({"1-10": 0, "11-50": 3, "51-500": 6, "500+": 7})
                + np.where(df.past_buyer, 9, 0)).clip(0, 30)
 contact_fit = (df.role.map({"PI/Director": 12, "Scientist": 10, "Procurement": 7, "Postdoc/Student": 2, "Other": 0})
-               + df.area.map({"Endothelial/vascular": 13, "Hematopoietic": 12, "Neural": 5, "Off-topic": 0})).clip(0, 25)
+               + df.area.map({"Core area 1": 13, "Core area 2": 12, "Adjacent area": 5, "Off-topic": 0})).clip(0, 25)
 engagement = (cap(df.email_clicks * 6, 12) + cap(df.sales_replies * 12, 12)       # clicks and replies only
               + cap(df.newsletter_forms * 2, 3) + cap(df.blog_visits * 0.5, 2)).clip(0, 25)   # no opens, no own actions
 intent = (np.where(df.pricing_visits > 0, 8, 0) + np.where(df.quote_forms > 0, 10, 0)

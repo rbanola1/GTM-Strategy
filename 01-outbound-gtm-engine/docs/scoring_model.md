@@ -12,7 +12,7 @@ Two scores, kept separate, because they answer different questions.
 |---|---|
 | Segment | Organ-on-chip 25, cell therapy 22, pharma 20, CRO 15, academic 10, hospital/core 8, other 0 |
 | Role | PI/director 20, scientist 15, procurement 10, postdoc/student 4, other 0 |
-| Research area | Endothelial or hematopoietic 25, neural 12, cardiac 10, off-topic -15 |
+| Research area | Core areas 25, adjacent area 12, other area 10, off-topic -15 |
 | Past buyer | +20 |
 | Region | US/EU +5, other -5 |
 
