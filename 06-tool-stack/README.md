@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Tools promised more leads, each looked cheap, and none was proven.
+- **Task:** Spend within a hard cap and only on proven bottlenecks.
+- **Action:** Scored each tool, ranked them, and gated spend in three stages: prove, scale data, then target system.
+- **Result:** Monthly new spend stays at $40, $225 and $520 across the stages, each behind a gate, and weak tools are marked not recommended.
+
 ## The problem
 A crowded market of sales and marketing tools promises more leads, and each looks cheap on its own. Buying them one by one adds cost, overlapping features, extra places to keep data, and no proof that any single tool solved a bottleneck. The constraint here was a small team with a hard cap on new tool spend.
 

@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch, then checked against the real history of the first sequences; assumptions are labelled and replaced by actuals.
+- **Situation:** Thousands of contacts were enrolled at once, beyond the daily send limit, and reply counts included auto-replies.
+- **Task:** Pace sending and measure only real replies.
+- **Action:** Set send caps and a stop rule, targeted by signal, and tracked real replies; in one quarter 32,000 leads gave 3,000 MQLs, 150 SQLs and 5 opportunities.
+- **Result:** 38 emails per real reply instead of 947; the lesson, that volume without fit gives few opportunities, led to the scoring and ideal-customer work.
+
 ## The problem
 Outbound ran as mass enrollment: thousands of contacts enrolled in a sequence at once, far beyond the daily send limit, so a "launch" took weeks to finish and nobody could say which message worked. Replies counted auto-replies, opens were inflated by security scanners, and the reply rate was a fraction of a percent. Competitor staff and existing customers sat in the lists. Meanwhile a small, targeted sequence sent by hand got several percent replies.
 

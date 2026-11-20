@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Nobody had written down who buys, and every contact was treated alike.
+- **Task:** Define the ideal customer, tier accounts and design nurture.
+- **Action:** Analysed wins by segment, role and organisation size, set account tiers and built product-based nurture tracks.
+- **Result:** Tier A accounts win 71% of deals against 36% for tier B and 20% for tier C.
+
 ## The problem
 Outbound targeting rested on assumptions: nobody had written down who actually buys, which roles close, or how big the buyer's organisation tends to be. Contacts from every segment were treated alike, there was no tiering of accounts, and good-fit contacts who were not ready to buy had nowhere to go, so they either received sales sequences too early or were forgotten.
 

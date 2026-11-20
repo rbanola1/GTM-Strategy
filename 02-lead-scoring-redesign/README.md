@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** MQL and SQL came from an engagement-only score: 15 points and 30 points.
+- **Task:** Redesign scoring and lifecycle so qualified means likely to buy.
+- **Action:** Combined fit, engagement and intent, added hard exclusion rules, back-tested the score and chose cut-offs from precision, recall and sales capacity.
+- **Result:** Ranking power rose from 0.58 to 0.73 and the MQL buy rate from 3.3% to 11.2%.
+
 ## The problem
 MQL and SQL were defined purely by an engagement score: **MQL at 15 points, SQL at 30**. The score counted opens, any form fill, any page visit, and even the team's own actions (enrolling a contact in a sequence, calling them). It had no notion of **who** the contact was. Results:
 - Opens are inflated by security scanners, and own actions score points that say nothing about the buyer.
@@ -40,6 +47,9 @@ MQL and SQL were defined purely by an engagement score: **MQL at 15 points, SQL 
 Fewer contacts are labelled MQL, but they convert more than three times as often, and conversion now rises at every stage (Lead, MQL, SQL), which is what a lifecycle model should do. The numbers are simulated; the method is what carries over.
 
 **Threshold trade-off (new score):** a lower MQL cut-off finds more of the eventual buyers but fills nurture with weaker leads. For example, a cut-off of 40 recalls about 36% of buyers at 8.7% precision, while 50 recalls about 10% at 17.8% precision. The right point depends on how many leads sales and marketing can handle well.
+
+## Method
+The redesign followed Six Sigma DMAIC: define qualified in measurable terms, measure the old score's results, analyse why it failed (engagement only, no fit), improve by adding fit and intent with hard rules, and control with a monthly review of buy rate by stage. See [the funnel and its factors](https://github.com/rbanola1/RevOps-Portfolio/blob/main/11-pipeline-health-analysis/docs/sales_funnel_and_factors.md).
 
 ## Design decisions
 1. **Fit decides who, intent decides when, engagement shows interest.** Three signals, one number, separate parts you can inspect.

@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Outbound ran as volume, with no written ideal customer and no rule for handing warm contacts to reps.
+- **Task:** Build a signal-based engine that targets the right people and routes them well.
+- **Action:** Cleaned and enriched contacts, scored fit and intent, routed by lane, engaged with personal openers and measured results monthly; diagnosed why volume produced few deals.
+- **Result:** From 4,000 contacts, 3,149 were scored and routed; hot leads replied at 19% against about 4% for warm.
+
 ## The problem
 Outbound ran as volume: large sequence blasts to imported lists, a few percent reply rate, no written ICP, an engagement-only lead score with no "fit" side, and no rule for when a warm contact should go to a rep. Sending more did not produce more meetings.
 

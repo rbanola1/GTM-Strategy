@@ -16,6 +16,13 @@ flowchart LR
     class C r
 ```
 
+## The story in STAR
+- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Situation:** Contact lists were full of people already in the CRM, and every enrichment step cost money.
+- **Task:** Prove a cheaper way to find net-new leads.
+- **Action:** Ran a pilot that suppresses known contacts first, tiers before enriching, and enriches last.
+- **Result:** On the same budget: 473 usable leads against 128, and 4.2 credits per usable lead against 15.6.
+
 ## The problem
 The existing process for finding new contacts was keyword pulls from a contact database, an email verifier, bulk e-blasts, then reps emailing people who opened. Most contacts were already in the CRM, many were competitors or tiny companies, replies were rare, and every enrichment step costs money. The goal of the pilot: test whether a data-enrichment platform plus free scientific sources can produce **net-new, high-fit contacts** that reps and e-blasts have not already reached, and measure the real cost per lead and per reply.
 
