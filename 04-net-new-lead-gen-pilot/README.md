@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Contact lists were full of people already in the CRM, and every enrichment step cost money.
 - **Task:** Prove a cheaper way to find net-new leads.
 - **Action:** Ran a pilot that suppresses known contacts first, tiers before enriching, and enriches last.

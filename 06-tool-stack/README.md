@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Tools promised more leads, each looked cheap, and none was proven.
 - **Task:** Spend within a hard cap and only on proven bottlenecks.
 - **Action:** Scored each tool, ranked them, and gated spend in three stages: prove, scale data, then target system.

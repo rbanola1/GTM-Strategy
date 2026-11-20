@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Nobody had written down who buys, and every contact was treated alike.
 - **Task:** Define the ideal customer, tier accounts and design nurture.
 - **Action:** Analysed wins by segment, role and organisation size, set account tiers and built product-based nurture tracks.

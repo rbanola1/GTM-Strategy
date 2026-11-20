@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** Outbound ran as volume, with no written ideal customer and no rule for handing warm contacts to reps.
 - **Task:** Build a signal-based engine that targets the right people and routes them well.
 - **Action:** Cleaned and enriched contacts, scored fit and intent, routed by lane, engaged with personal openers and measured results monthly; diagnosed why volume produced few deals.

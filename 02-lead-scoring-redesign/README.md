@@ -17,7 +17,7 @@ flowchart LR
 ```
 
 ## The story in STAR
-- **Starting point:** Built from scratch: there was no usable history, so the first version rests on stated assumptions, each one labelled and replaced by actual data as it builds up.
+- **Starting point:** Nothing existed for this yet, so I set it up from scratch.
 - **Situation:** MQL and SQL came from an engagement-only score: 15 points and 30 points.
 - **Task:** Redesign scoring and lifecycle so qualified means likely to buy.
 - **Action:** Combined fit, engagement and intent, added hard exclusion rules, back-tested the score and chose cut-offs from precision, recall and sales capacity.
